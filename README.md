@@ -1,19 +1,10 @@
-# React 
+Apply any frame with grid styles configurations inspired from Google Chrome's element inspector. Each number is a multiplier of 4px.
 
-<img src="../_screenshots/webpack.png" width="400" />
-
-Creates rectangles (same as the [Webpack sample plugin][webpack]).
-
-This demonstrates:
-
-- bundling plugin code using Webpack, and
-- using React with TSX.
-
-The main plugin code is in `src/code.ts`. The HTML for the UI is in
-`src/ui.html`, while the embedded JavaScript is in `src/ui.tsx`.
-
-These are compiled to files in `dist/`, which are what Figma will use to run
-your plugin.
+• Horizontal padding (1 - 12)
+• Vertical padding (1 - 12)
+• Max width (960px / center aligned)
+• Max width (960px / left aligned)
+• Show 12 columns
 
 To build:
 
