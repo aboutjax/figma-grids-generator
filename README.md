@@ -3,7 +3,6 @@
 
 <a href="https://www.producthunt.com/posts/figma-grids-generator?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-figma-grids-generator" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=203815&theme=light&period=daily" alt="Figma Grids Generator - Generate layout grid styles on the fly | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
 
-<iframe style="border: none;" src="https://cards.producthunt.com/cards/posts/203815?v=1" width="500" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 Apply any frame with grid styles configurations inspired from Google Chrome's element inspector. Each number is a multiplier of 4px.
 
