@@ -1,0 +1,7 @@
+{
+  "name": "Grids Generator",
+  "id": "841313026689642442",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html"
+}
